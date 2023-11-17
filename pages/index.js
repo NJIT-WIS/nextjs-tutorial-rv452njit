@@ -11,9 +11,9 @@ class Index extends Component {
     return (
         <div id="container" className="layout_container">
         <main>
-            {/* <header>
+            <header>
                 <h1>Ravisankar Venkataraman</h1>
-                </header> */}
+            </header>
             <section id="submainsection" className="">
                 <p>
                     Having a great time with IS-601
