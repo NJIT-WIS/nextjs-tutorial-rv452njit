@@ -9,7 +9,7 @@ class Index extends Component {
     return (
         <div id="container" className="layout_container">
         <main>
-             <header>
+             <header className={{}}>
                 <h1>Ravisankar Venkataraman</h1>
             </header>   
             <section id="mainsection" className="">
