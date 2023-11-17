@@ -1,18 +1,20 @@
 import Link from "next/link";
 import React, { Component } from "react";
 import Date from '../components/date';
-
+import header from "../components/header";
 //import "../styles/global.css";
 class Index extends Component {
   state = {};
   render() {
+    const name = "Ravisankar Venkataraman"
+
     return (
         <div id="container" className="layout_container">
         <main>
-             <header className={{}}>
+            <header>
                 <h1>Ravisankar Venkataraman</h1>
-            </header>   
-            <section id="mainsection" className="">
+                </header>
+            <section id="submainsection" className="">
                 <p>
                     Having a great time with IS-601
                 </p>

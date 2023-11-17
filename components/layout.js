@@ -6,7 +6,7 @@ export default function Layout({ children }) {
     <>
      <html lang="en">
             <head>
-                <title >Ravisankar Venkataraman - Home</title>
+                <title>Ravisankar Venkataraman - Home</title>
                 <meta charSet='utf-8' />
                 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
                 <meta name="description" content="Ravisankar Resume" />
