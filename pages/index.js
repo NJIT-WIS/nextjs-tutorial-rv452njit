@@ -13,7 +13,6 @@ class Index extends Component {
         <main>
             <header>
                 <h1>Ravisankar Venkataraman</h1>
-                
             </header>
             <section id="submainsection" className="">
                 <p>
